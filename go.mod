@@ -1,6 +1,6 @@
 module .
 
-go 1.12
+go 1.14
 
 require (
 	github.com/coreos/etcd v3.3.18+incompatible // indirect
